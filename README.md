@@ -14,3 +14,8 @@ image editing software: [Paint.net](https://www.getpaint.net/) and [Krita](https
 3. open projects folder
 
 4. open project file of wallpaper, which you need to modify
+
+# color banding
+yes, i know. some of my wallpapers have color banding.
+
+if you know how to fix color banding, say how by creating an issue with label "enhancement"
