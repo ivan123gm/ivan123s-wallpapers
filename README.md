@@ -2,6 +2,6 @@
 collection of wallpapers, created by me.
 
 # credits
-space image: [here](https://unsplash.com/photos/KvgB81s4dF0)(Photo made by Nathan Anderson)
+space image: [here](https://unsplash.com/photos/KvgB81s4dF0) (Photo made by Nathan Anderson)
 
 image editing software: [Paint.net](https://www.getpaint.net/) and [Krita](https://krita.org/en/)
