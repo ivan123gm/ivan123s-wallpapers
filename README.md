@@ -6,6 +6,8 @@ space image: [here](https://unsplash.com/photos/KvgB81s4dF0) (Photo made by Nath
 
 forest image: [here](https://unsplash.com/photos/jFCViYFYcus) (Photo made by Lukasz Szmigiel)
 
+clouds.bmp: i found it on betaarchive. idk who is the original creator of this image and i don't claim any rights to this image.
+
 image editing software: [Paint.net](https://www.getpaint.net/) and [Krita](https://krita.org/en/)
 
 # modifying wallpapers
