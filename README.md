@@ -13,7 +13,3 @@ image editing software: [Paint.net](https://www.getpaint.net/) and [Krita](https
 # modifying wallpapers
 it's pretty much straightforward, so i don't think i need to explain how to modify them. (if you know how to work with image editors, ofc)
 
-# color banding
-yes, i know. some of my wallpapers have color banding.
-
-if you know how to fix color banding, say how by creating an issue with label "enhancement"
