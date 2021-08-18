@@ -11,13 +11,7 @@ clouds.bmp: i found it on betaarchive. idk who is the original creator of this i
 image editing software: [Paint.net](https://www.getpaint.net/) and [Krita](https://krita.org/en/)
 
 # modifying wallpapers
-1. install paint.net
-
-2. clone repo
-
-3. open projects folder
-
-4. open project file of wallpaper, which you need to modify
+it's pretty much straightforward, so i don't think i need to explain how to modify them. (if you know how to work with image editors, ofc)
 
 # color banding
 yes, i know. some of my wallpapers have color banding.
